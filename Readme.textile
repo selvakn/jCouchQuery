@@ -2,7 +2,7 @@ h3. jCouchQuery
 
 h4. Description
 
-jQuery based library for accessing couchdb from browser. Useful for developing _Ajax_ based couchdb web applications.
+jQuery based _evented_ library for accessing couchdb from browser. Useful for developing _Ajax_ based couchdb web applications.
 
 
 h3. License

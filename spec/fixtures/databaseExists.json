@@ -1,5 +1,5 @@
 {
-    "db_name": test_database.name,
+    "db_name": testDatabaseOptions.db,
     "doc_count":17,
     "doc_del_count":56,
     "update_seq":73,
