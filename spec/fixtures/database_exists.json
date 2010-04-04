@@ -1,0 +1,11 @@
+{
+    "db_name": test_database.name,
+    "doc_count":17,
+    "doc_del_count":56,
+    "update_seq":73,
+    "purge_seq":0,
+    "compact_running":false,
+    "disk_size":69723,
+    "instance_start_time":"1270325931437024",
+    "disk_format_version":5
+}
